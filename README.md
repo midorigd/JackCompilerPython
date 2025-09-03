@@ -42,6 +42,10 @@ python3 -m JackCompiler <dirname OR filename.jack>
 
 My C++ implementation of this project: [JackCompiler (C++)](https://github.com/midorigd/JackCompilerCpp)
 
+### Stats
+
+1123 lines (827 loc)
+
 ## References
 
 [nand2tetris](https://www.nand2tetris.org/course)
